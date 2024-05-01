@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+test.R
+README_cache/gfm/*
+*.bib
+examples/one-arm-bernoulli/*
+*.Rproj
